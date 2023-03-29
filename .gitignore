@@ -1,0 +1,9 @@
+*.nextflow.log*
+/null/**
+.nextflow.pid
+.nextflow-console.log
+dag.mmd
+dag.html
+work
+.nextflow
+.nextflow.log**
