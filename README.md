@@ -19,20 +19,20 @@ SchapiroLabor/mcmicro_nfcore_demo was originally written by SchapiroLabor.
 
 We thank the following people for their extensive assistance in the development of this pipeline:
 
-- [Florian Wuennemann](@FloWuenne)
-- [Adam Taylor](@adamjtaylor)
-- [Margot Chazotte](@MargotCh)
-- [Jose Nimo](@josenimo)
-- [Chiara Schiller](@chiarasch)
-- [Kresimir Bestak](@kbestak)
-- [Aroj Hada](@ArozHada)
-- [Wouter-Michiel Vierdag](@melonora)
-- [Luis Kuhn Cuellar](@luiskuhn)
-- [Carolin Schwitalla ](@CaroAMN)
-- [Dominik Molitor](@DojakM)
-- [Jelena Pejovic Simeunovic](@JPejovicApis)
-- [Svetozar Nesic](@snesic)
-- [Emilio Palumbo](@emi80)
+- [Florian Wuennemann](https://github.com/FloWuenne)
+- [Adam Taylor](https://github.com/adamjtaylor)
+- [Margot Chazotte](https://github.com/MargotCh)
+- [Jose Nimo](https://github.com/josenimo)
+- [Chiara Schiller](https://github.com/chiarasch)
+- [Kresimir Bestak](https://github.com/kbestak)
+- [Aroj Hada](https://github.com/ArozHada)
+- [Wouter-Michiel Vierdag](https://github.com/melonora)
+- [Luis Kuhn Cuellar](https://github.com/luiskuhn)
+- [Carolin Schwitalla ](https://github.com/CaroAMN)
+- [Dominik Molitor](https://github.com/DojakM)
+- [Jelena Pejovic Simeunovic](https://github.com/JPejovicApis)
+- [Svetozar Nesic](https://github.com/snesic)
+- [Emilio Palumbo](https://github.com/emi80)
 
 ## Citations
 
