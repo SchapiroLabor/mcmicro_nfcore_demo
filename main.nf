@@ -26,10 +26,8 @@ include { SCIMAP_MCMICRO } from './modules/local/scimap/mcmicro/main'
 
 workflow {
 
-    ch_versions = Channel.empty()
-
+    // Manually define inputs here
     image_tuple = tuple([ id:'test', single_end:false ], '/workspace/test/cycif_tonsil_registered.ome.tif')
-
     marker_tuple = tuple([ id:'test', single_end:false ], '/workspace/test/markers.csv')
 
     // Background subtraction
@@ -47,22 +45,6 @@ workflow {
     SCIMAP_MCMICRO(MCQUANT.out.csv)
 
 }
-
-/*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    COMPLETION EMAIL AND SUMMARY
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-*/
-
-// workflow.onComplete {
-//     if (params.email || params.email_on_fail) {
-//         NfcoreTemplate.email(workflow, params, summary_params, projectDir, log, multiqc_report)
-//     }
-//     NfcoreTemplate.summary(workflow, params, log)
-//     if (params.hook_url) {
-//         NfcoreTemplate.IM_notification(workflow, params, summary_params, projectDir, log)
-//     }
-// }
 
 /*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

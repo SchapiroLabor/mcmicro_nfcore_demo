@@ -25,14 +25,17 @@ We thank the following people for their extensive assistance in the development 
 - [Jose Nimo](https://github.com/josenimo)
 - [Chiara Schiller](https://github.com/chiarasch)
 - [Kresimir Bestak](https://github.com/kbestak)
-- [Aroj Hada](https://github.com/ArozHada)
-- [Wouter-Michiel Vierdag](https://github.com/melonora)
-- [Luis Kuhn Cuellar](https://github.com/luiskuhn)
-- [Carolin Schwitalla ](https://github.com/CaroAMN)
-- [Dominik Molitor](https://github.com/DojakM)
-- [Jelena Pejovic Simeunovic](https://github.com/JPejovicApis)
-- [Svetozar Nesic](https://github.com/snesic)
-- [Emilio Palumbo](https://github.com/emi80)
+- [Aroj Hada](@ArozHada)
+- [Miguel A. Ibarra-Arellano](@migueLib)
+- [Victor Perez]()
+- [Wouter-Michiel Vierdag](@melonora)
+- [Luis Kuhn Cuellar](@luiskuhn)
+- [Carolin Schwitalla ](@CaroAMN)
+- [Dominik Molitor](@DojakM)
+- [Jelena Pejovic Simeunovic](@JPejovicApis)
+- [Svetozar Nesic](@snesic)
+- [Emilio Palumbo](@emi80)
+
 
 ## Citations
 
