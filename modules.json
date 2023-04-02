@@ -1,0 +1,60 @@
+{
+  "name": "",
+  "homePage": "",
+  "repos": {
+    "https://github.com/nf-core/modules.git": {
+      "modules": {
+        "nf-core": {
+          "cellpose": {
+            "branch": "master",
+            "git_sha": "8f65c1af123207d234ea3fc6dcd19d30b4a0e322",
+            "installed_by": ["modules"]
+          },
+          "coreograph": {
+            "branch": "master",
+            "git_sha": "85805aa190bdc51c590e4eff3387c97fa78e13fe",
+            "installed_by": ["modules"]
+          },
+          "custom/dumpsoftwareversions": {
+            "branch": "master",
+            "git_sha": "c8e35eb2055c099720a75538d1b8adb3fb5a464c",
+            "installed_by": ["modules"]
+          },
+          "fastqc": {
+            "branch": "master",
+            "git_sha": "c8e35eb2055c099720a75538d1b8adb3fb5a464c",
+            "installed_by": ["modules"]
+          },
+          "ilastik/multicut": {
+            "branch": "master",
+            "git_sha": "46404221c93365c2c98f4b07805797d1ca04622c",
+            "installed_by": ["modules"]
+          },
+          "ilastik/pixelclassification": {
+            "branch": "master",
+            "git_sha": "d4cb02034fec72013506221ff43ca4e53caa869c",
+            "installed_by": ["modules"]
+          },
+          "mcquant": {
+            "branch": "master",
+            "git_sha": "96ca9f700f2c8b1cf1f0765419a79c09ff53db08",
+            "installed_by": ["modules"]
+          },
+          "multiqc": {
+            "branch": "master",
+            "git_sha": "c8e35eb2055c099720a75538d1b8adb3fb5a464c",
+            "installed_by": ["modules"]
+          },
+          "scimap/mcmicro": {
+            "branch": "master",
+            "git_sha": "423fa88f8e904b33cad103e8e69eb351b2a4ecb9",
+            "installed_by": ["modules"]
+          }
+        }
+      },
+      "subworkflows": {
+        "nf-core": {}
+      }
+    }
+  }
+}
